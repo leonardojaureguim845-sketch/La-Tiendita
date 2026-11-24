@@ -1,0 +1,170 @@
+[
+  {
+    "nombre": "Arroz",
+    "categoria": "despensa",
+    "presentacion": "Bolsa · 1 kg",
+    "precio_referencial_bs": 8.5,
+    "icono": "🍚"
+  },
+  {
+    "nombre": "Azúcar",
+    "categoria": "despensa",
+    "presentacion": "Bolsa · 1 kg",
+    "precio_referencial_bs": 7.0,
+    "icono": "🍬"
+  },
+  {
+    "nombre": "Fideo",
+    "categoria": "despensa",
+    "presentacion": "Paquete · 400 g",
+    "precio_referencial_bs": 5.5,
+    "icono": "🍝"
+  },
+  {
+    "nombre": "Aceite",
+    "categoria": "despensa",
+    "presentacion": "Botella · 900 ml",
+    "precio_referencial_bs": 15.0,
+    "icono": "🫒"
+  },
+  {
+    "nombre": "Agua",
+    "categoria": "bebidas",
+    "presentacion": "Botella · 2 L",
+    "precio_referencial_bs": 6.0,
+    "icono": "💧"
+  },
+  {
+    "nombre": "Gaseosa",
+    "categoria": "bebidas",
+    "presentacion": "Botella · 2 L",
+    "precio_referencial_bs": 12.0,
+    "icono": "🥤"
+  },
+  {
+    "nombre": "Jugo en caja",
+    "categoria": "bebidas",
+    "presentacion": "Envase · 1 L",
+    "precio_referencial_bs": 10.0,
+    "icono": "🧃"
+  },
+  {
+    "nombre": "Refresco personal",
+    "categoria": "bebidas",
+    "presentacion": "Botella · 500 ml",
+    "precio_referencial_bs": 5.0,
+    "icono": "🍋"
+  },
+  {
+    "nombre": "Leche",
+    "categoria": "lacteos",
+    "presentacion": "Bolsa · 1 L",
+    "precio_referencial_bs": 7.5,
+    "icono": "🥛"
+  },
+  {
+    "nombre": "Yogur",
+    "categoria": "lacteos",
+    "presentacion": "Botella · 1 L",
+    "precio_referencial_bs": 13.0,
+    "icono": "🥣"
+  },
+  {
+    "nombre": "Queso",
+    "categoria": "lacteos",
+    "presentacion": "Porción · 250 g",
+    "precio_referencial_bs": 18.0,
+    "icono": "🧀"
+  },
+  {
+    "nombre": "Mantequilla",
+    "categoria": "lacteos",
+    "presentacion": "Envase · 200 g",
+    "precio_referencial_bs": 14.0,
+    "icono": "🧈"
+  },
+  {
+    "nombre": "Galletas",
+    "categoria": "snacks",
+    "presentacion": "Paquete · 6 unid.",
+    "precio_referencial_bs": 5.0,
+    "icono": "🍪"
+  },
+  {
+    "nombre": "Papas fritas",
+    "categoria": "snacks",
+    "presentacion": "Bolsa · variedad",
+    "precio_referencial_bs": 6.0,
+    "icono": "🍟"
+  },
+  {
+    "nombre": "Chocolate",
+    "categoria": "snacks",
+    "presentacion": "Tableta · individual",
+    "precio_referencial_bs": 8.0,
+    "icono": "🍫"
+  },
+  {
+    "nombre": "Caramelos",
+    "categoria": "snacks",
+    "presentacion": "Bolsa · surtidos",
+    "precio_referencial_bs": 4.0,
+    "icono": "🍭"
+  },
+  {
+    "nombre": "Detergente",
+    "categoria": "limpieza",
+    "presentacion": "Bolsa · 500 g",
+    "precio_referencial_bs": 9.0,
+    "icono": "🧼"
+  },
+  {
+    "nombre": "Lavandina",
+    "categoria": "limpieza",
+    "presentacion": "Botella · 1 L",
+    "precio_referencial_bs": 8.0,
+    "icono": "🧴"
+  },
+  {
+    "nombre": "Jabón",
+    "categoria": "limpieza",
+    "presentacion": "Unidad · barra",
+    "precio_referencial_bs": 5.0,
+    "icono": "🫧"
+  },
+  {
+    "nombre": "Esponja",
+    "categoria": "limpieza",
+    "presentacion": "Unidad",
+    "precio_referencial_bs": 3.5,
+    "icono": "🧽"
+  },
+  {
+    "nombre": "Papel higiénico",
+    "categoria": "hogar",
+    "presentacion": "Paquete · 4 rollos",
+    "precio_referencial_bs": 12.0,
+    "icono": "🧻"
+  },
+  {
+    "nombre": "Fósforos",
+    "categoria": "hogar",
+    "presentacion": "Caja",
+    "precio_referencial_bs": 2.5,
+    "icono": "🔥"
+  },
+  {
+    "nombre": "Pilas",
+    "categoria": "hogar",
+    "presentacion": "Par · AA",
+    "precio_referencial_bs": 10.0,
+    "icono": "🔋"
+  },
+  {
+    "nombre": "Servilletas",
+    "categoria": "hogar",
+    "presentacion": "Paquete",
+    "precio_referencial_bs": 4.5,
+    "icono": "🧻"
+  }
+]
